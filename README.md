@@ -37,11 +37,7 @@ Blogify is a modern and responsive full-stack blog platform developed using HTML
 
 ---
 
-## 💻 How to Run the Project
+## 🌐 Live Demo
 
-### Install Dependencies
-```bash
-npm install
-
-##Netlify link
-https://6a12ede3ef366f8aa3f7d510--jovial-naiad-1efc9a.netlify.app/ 
+Netlify Link:  
+https://6a12ede3ef366f8aa3f7d510--jovial-naiad-1efc9a.netlify.app/
